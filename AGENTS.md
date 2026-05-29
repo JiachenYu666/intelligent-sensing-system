@@ -33,4 +33,8 @@ Build reusable FPGA + AI + embedded projects for:
 - Linux
 
 ## Important
+<<<<<<< HEAD
 Read docs/ai_handoff.md before starting work.（github修改）
+=======
+Read docs/ai_handoff.md before starting work.（github修改）
+>>>>>>> d4fae1cb0bbc308bb8409c3c3b34f363ee4bbcd6
